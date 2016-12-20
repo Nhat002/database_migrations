@@ -1,0 +1,9 @@
+adapter: postgres
+pool: 1
+timeout: 5000
+username: nhattran
+password: nhattran
+encoding: utf8
+database: helios
+host: 127.0.0.1
+port: 5432
